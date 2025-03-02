@@ -11,7 +11,7 @@ from Scripts import handle_query
 
 # Set page config
 st.set_page_config(
-    page_title="AI Assistant with YouTube Videos",
+    page_title="EduHelper",
     page_icon="🤖",
     layout="wide"
 )

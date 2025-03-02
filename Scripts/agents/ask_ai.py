@@ -15,3 +15,6 @@ class AskAIAgent:
         question = state["query"]
         response = self.llm.invoke([{"role": "user", "content": question}])
         return {"answer": response.content}
+
+
+        

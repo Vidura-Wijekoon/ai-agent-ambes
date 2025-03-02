@@ -1,4 +1,4 @@
-langchain-groq==0.0.3
+langchain-groq==0.2.4
 langgraph==0.0.25
 google-api-python-client==2.118.0
 python-dotenv==1.0.1

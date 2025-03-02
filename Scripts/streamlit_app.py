@@ -31,7 +31,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title
-st.title("🤖 AI Assistant with YouTube Videos")
+st.title("🤖 EduHelper")
 
 # User input
 query = st.text_input("Ask your question:", placeholder="Type your question here...")

@@ -1,5 +1,5 @@
 langchain-groq==0.2.4
-langgraph==0.0.25
+langgraph
 google-api-python-client==2.118.0
 python-dotenv==1.0.1
 streamlit
